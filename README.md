@@ -13,7 +13,7 @@ Isoogle is a multi-stage search application that provides different search modes
 
 The application is built as a Spring Boot web service.
 
-##Watch the System Demo:
+## Watch the System Demo:
 
 [![Watch the Video](https://img.youtube.com/vi/zYKSYUyIiPY/0.jpg)](https://youtu.be/zYKSYUyIiPY)
 
